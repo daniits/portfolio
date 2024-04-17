@@ -84,7 +84,7 @@ function Projects() {
               title="Fitness App"
               description="To create an integrated fitness app that enhances the training experience by connecting athletes and coaches in a dynamic gym setting, offering personalized exercise sessions, group training options, and comprehensive management features for administrators."
               // link="https://github.com/MohitSojitra/Artistee"
-              liveLink="https://artistee-fronend.vercel.app/"
+              // liveLink="https://artistee-fronend.vercel.app/"
             />
           </Col>
 
@@ -94,8 +94,8 @@ function Projects() {
               isBlog={false}
               title="Crickslab CMS Features"
               description="Provide an overview of your involvement in developing various CMS portal systems, emphasizing the goal to enhance content management capabilities, user interaction, and content sharing. Highlight the breadth of your experience across different projects, focusing on user creation, moment creation, and post creation functionalities."
-              link="https://github.com/MohitSojitra/Artistee"
-              liveLink="https://artistee-admin.vercel.app/"
+              // link="https://github.com/MohitSojitra/Artistee"
+              // liveLink="https://artistee-admin.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -104,8 +104,8 @@ function Projects() {
               isBlog={false}
               title="Social Media Automation"
               description="Begin with an overview of the tool, emphasizing its purpose to automate the creation of engaging social media posts. Highlight how it leverages AI to generate content and tags, and offers customizable templates for a personalized touch, catering to a wide range of social media needs."
-              link="https://github.com/MohitSojitra/Artistee"
-              liveLink="https://artistee-admin.vercel.app/"
+              // link="https://github.com/MohitSojitra/Artistee"
+              // liveLink="https://artistee-admin.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -114,8 +114,8 @@ function Projects() {
               isBlog={false}
               title="Match Centeral"
               description="Introduce Match Central Kuwait as part of the CricketLab service suite, a project dedicated to cricket enthusiasts and players in Kuwait. Highlight the goal of providing a dynamic platform for real-time cricket match updates, detailed scorecards, and engaging content."
-              link="https://github.com/MohitSojitra/Artistee"
-              liveLink="https://artistee-admin.vercel.app/"
+              // link="https://github.com/MohitSojitra/Artistee"
+              // liveLink="https://artistee-admin.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -124,8 +124,8 @@ function Projects() {
               isBlog={false}
               title="Cricket Match Overlays System "
               description="Start with an overview of the project, emphasizing its objective to elevate the cricket viewing experience for the Pakistan Super League (PSL) by providing dynamic, real-time overlays displaying match details, scores, and statistics."
-              link="https://github.com/MohitSojitra/Artistee"
-              liveLink="https://artistee-admin.vercel.app/"
+              // link="https://github.com/MohitSojitra/Artistee"
+              // liveLink="https://artistee-admin.vercel.app/"
             />
           </Col>
         </Row>
